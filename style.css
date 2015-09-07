@@ -1,0 +1,295 @@
+
+ {
+	margin: 0px;
+	padding: 0px;
+}
+
+* html li {
+	vertical-align: bottom;
+}
+
+* html img {
+	vertical-align: middle;
+}
+
+* html input {
+	vertical-align: middle;
+}
+
+img {
+	border: 0px;
+}
+
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+li {
+
+	margin: 0px;
+	list-style: ;
+
+}
+
+* html li {
+	vertical-align: bottom;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	border: none;
+	outline: none; cursor: pointer;
+}
+
+.clear {
+	clear: both;
+	height: 0px;
+	display: block;
+	font-size: 0px;
+}
+
+	{
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	margin: 0;
+	padding: 0
+}
+p{
+    color: #4a4a4a;
+}
+body {
+	width: 100%;
+	margin: 0 auto;
+	text-align: left;
+	background: #F4F4F4;
+    background: url("images/bg.png") repeat;
+    font-family:Droidserif;
+    height: 100%;
+}
+
+.styled{width:290px;
+ background:#eef3f5; 
+margin-bottom: 2px;
+
+}
+
+#wrapper{
+    margin:0 auto;
+    overflow:hidden;
+    width: 100%;
+    text-align: left; 
+}
+#main-blog{
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+    background: ;
+}
+#header{
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+    background: #fff;
+
+}
+.main_head{
+    margin: auto;
+    overflow: hidden;
+    
+      width: 1030px;
+    
+}
+.logo{
+    float: left;
+    display: inline;
+    margin-top: 10px;
+}
+
+.search_blog{
+    
+    float: left;
+    display: inline;
+    margin-top: 20px;
+}
+.search_blog ul li{display: inline;}
+
+.searchBOX{font-size: 15px;
+height: 30px;
+margin-left: 100px;
+width: 371px;
+
+}
+.subBTN{
+    background: url(images/btn.png) no-repeat;
+    width:90px;
+    border: none;
+    height: 35px;
+}
+.subBTN:hover{}
+
+.search_button{margin:-5px 0 0 10px;float:right;}
+.android_shop_area{background:#F4F4F4}
+.android_shop{width:1030px;margin:0 auto;}
+.android_left_shop{padding:0 15px;float:left;border-right:1px solid #ddd;border-left:1px solid #ddd;}
+.android_right_shop{padding:0 15px;float:right;border-right:1px solid #ddd;border-left:1px solid #ddd;}
+.android_left_shop a{color:#747474;text-transform:uppercase}
+.android_right_shop a{color:#747474;text-transform:uppercase}
+.slider_area{width:1030px;margin:0 auto}
+.slider{height: 230px;
+margin: auto;
+width: 466px;}
+.android_chart{margin-top:1px;border-top:5px solid #A0B532;padding-top:5px;}
+.android_chart_left{float:left;width:298px;margin:5px 5px 0 0;border-bottom:1px solid #3D3D3D}
+.android_chart_left ul{margin:0;padding:0;list-style:none}
+.android_chart_left ul li{margin-right:15px;float:left}
+.android_chart_left ul li a{padding:0 15px;font-size:12px;display:block;text-transform:uppercase;background:#3D3D3D;color:#fff}
+.android_chart_left ul li a:hover{background:#2AC7E1;color:#000000;font-size:15px;}
+.android_chart_middle{margin-top:5px;border-bottom:1px solid #3D3D3D}
+.android_chart_middle ul{margin:0;padding:0;list-style:none}
+.android_chart_middle ul li{margin-right:15px;float:left}
+.android_chart_middle ul li a{padding:0 15px;font-size:12px;display:block;text-transform:uppercase;background:#3D3D3D;color:#fff}
+.android_chart_middle ul li a:hover{background:#2AC7E1;color:#000000;font-size:15px;}
+.fix{overflow:hidden}
+#container{
+    margin: 5px auto;
+    overflow: hidden;
+    width: 1030px;
+    background: #fff;
+}
+
+#sidebar{
+    float: left;
+    display: inline;
+    width: 300px;
+    border-right: 4px solid #DADADA;
+	padding: 5px 0 200px ;
+}
+.main_left{
+    margin-left: 32px;
+    float: left;
+    display: inline; 
+	margin:0 auto;
+	padding:15px 62px 2px 32px;
+	border-bottom:4px solid #DADADA;
+}
+
+.main_left h2{
+    font-size: 15px;
+    color: black;
+    font-family: Georgia;
+	margin:0 auto;
+	padding-bottom:5px;
+	color:#7B9726;
+}
+.main_left h2:hover{text-decoration:underline;font-size: 18px;}
+
+.main_left ol{
+    margin: 0 auto;
+	padding-top:5px;
+}
+
+.main_left ol li{
+       font-family: arial;
+       font-size: 14px;
+       padding:10px 0;
+       border-bottom: 1px solid #d7d8d5;    
+}
+.main_left ol li a:hover{text-decoration:underline;}
+
+
+.main_left span a{
+    font-family: arial;
+    color:#3D3D3D;
+    text-align: right;
+    padding: 15px 3px;
+    float: left;
+}
+.main_left span a:hover{
+    text-decoration: underline;
+    
+}
+
+#content{
+    float: left;
+    display: inline;
+  
+    width: 720px;
+}
+#content h1{
+    font-family: Georgia;
+    font-size: 19px;
+    margin: 0 auto;
+    overflow: hidden;
+	padding:22px 0 16px 10px;
+    width: 95%;
+	color:#7B9726;
+}
+#content h1 a{color:#7B9726;}
+#content h1:hover{text-decoration:underline;}
+
+.each_box{
+    float: left;
+    display: inline;
+    margin-left: 20px;
+    width: 120px;
+    margin-bottom: 20px;
+}
+.each_box h3 a{
+      font-family: arial;
+      text-transform: uppercase;
+      font-weight: normal;
+      font-size: 12px;
+}
+.each_box h3 a:hover{
+  text-decoration: underline;
+}
+
+.each_box span{
+    overflow: hidden;
+    font-size: 10px;
+    
+}
+.each_box span a:hover{color: #000000;}
+.each_box span a{color: #a3a3a3;}
+.each_box ul{
+     display: block;
+	 margin-bottom: 3px;
+}
+.each_box ul li{
+    display: inline;
+  
+}
+
+.ins{background: #BDBBBC;
+padding: 4px 22px;
+font-size: 12px;
+  font-family: arial;
+color: #000000;
+border:1px dotted #000000;
+}
+.ins:hover{
+     font-family: arial;
+	 color: #ffffff;
+	 background:#2AC7E1;
+}
+.footer_top_area{width:1030px;margin:0 auto;border-top:3px solid #88B131;background:#3D3D3D}
+.footer_top{ margin-left: 290px;padding: 40px 25px;}
+.footer_top ul{margin:0;padding:0;list-style:none}
+.footer_top ul li{float:left;border-right:1px solid #ffffff;}
+.footer_top ul li a{color:#fff;padding:10px 10px;}
+.footer_top ul li a:hover{color:#fff;text-decoration:underline;}
+.footer_bottom_area{width:1030px;margin:0px auto;}
+.footer_bottom{margin-left:275px;padding:10px 0;}
+.footer_bottom p{float:left;margin-right:25px;font-size:12px;margin-top:5px}
+.footer_bottom ul{margin:0;padding:0;list-style:none}
+.footer_bottom ul li{float:left;padding-right:20px}
+.footer_bottom ul li a{text-decoration:underline;font-size:12px;color:#3D3D3D}
+.footer_bottom ul li a:hover{font-size:15px;}
+
+
+
